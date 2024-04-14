@@ -2,8 +2,8 @@
 Changelog for package soccer_model_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2024-04-14)
+------------------
 * Add package containing world model related message definitions in the soccer domain.
 * Contributors: Kenji Brameld
 

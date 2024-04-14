@@ -2,8 +2,8 @@
 Changelog for package soccer_geometry_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2024-04-14)
+------------------
 * Fill package descriptions in package.xml
 * Contributors: Kenji Brameld
 
