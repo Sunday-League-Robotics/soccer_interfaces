@@ -2,6 +2,9 @@
 Changelog for package soccer_vision_attribute_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.2.0 (2022-06-14)
 ------------------
 
